@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
+body {
+    font-family: 'Orelega One', cursive;
+    text-align: center;
+    background-color: whitesmoke;
+
+}
+
+img {
+    height: 450px;
+    width: 450px;
+    border-radius: 10px;
+}
+
+#pro1 {
+    text-align: center;
+    color: limegreen;
+}
+
+#pro2 {
+    text-align: center;
+    color: magenta;
+}
+
+#pro3 {
+    text-align: center;
+    color: blueviolet;
+}
+
+#pro4 {
+    text-align: center;
+    color: darkcyan;
+}
+
+#pro5 {
+    text-align: center;
+    color: red;
+}
+
+#pro6 {
+    text-align: center;
+    color: rgb(252, 186, 7);
+}
+
+#pro7 {
+    text-align: center;
+    color: royalblue;
+}
+
+.p1 {
+    color: black;
+}
+
+.p2 {
+    color: black;
+}
+
+.p3 {
+    color: black;
+}
+
+.p4 {
+    color: black;
+}
+
+.p5 {
+    color: black;
+}
+
+.p6 {
+    color: black;
+
+}
+
+div {
+    font-size: xx-large;
+}
+
+.h1:hover {
+    transform: scale(2.05);
+}
+
+label {
+    display: block;
+    text-align: center;
+}
+
+input[type="submit"] {
+    display: block;
+    background-color: purple;
+    color: yellow;
+    margin: auto;
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+form {
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+    background-color: gold;
+    border-radius: 15px;
+}
+
+img:hover {
+    cursor: pointer;
+    transform: scale(1.10);
+    box-shadow: 2px 2px 5px 5px silver;
+}
+
+input[type="radio"] {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.kill:hover {
+
+    cursor: pointer;
+    animation: mymove 2s infinite;
+}
+
+@keyframes mymove {
+    from {
+        color: crimson;
+    }
+
+    to {
+        color: dodgerblue;
+        font-size: 300%;
+    }
+}
+
+h3 {
+    color: black;
+}
+
+.p1:hover {
+    transform: scale(1.25);
+}
+
+.p2:hover {
+    transform: scale(1.25);
+}
+
+.p3:hover {
+    transform: scale(1.25);
+}
+
+.p4:hover {
+    transform: scale(1.25);
+}
+
+.p5:hover {
+    transform: scale(1.25);
+}
+
+.p6:hover {
+    transform: scale(1.25);
+}
+
+.p7:hover {
+    transform: scale(1.25);
+}
